@@ -5,7 +5,6 @@ import pandas as pd
 import numpy as np
 import requests
 import streamlit as st
-from sklearn.neighbors import LocalOutlierFactor
 from streamlit_lottie import st_lottie
 from PIL import Image
 pd.set_option("display.expand_frame_repr",False)
